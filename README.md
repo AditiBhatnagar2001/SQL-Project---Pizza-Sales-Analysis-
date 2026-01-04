@@ -2,9 +2,9 @@
 In this project, we analyzed pizza sales data using SQL to answer key business questions provided by the client.
 
 # INTRODUCTION<br>
-In this project, we analyzed pizza sales data using SQL to answer key business questions provided by
-the client.<br>
-To understand the relationship between the data, a data model (ER Diagram) was created using
+- In this project, we analyzed pizza sales data using SQL to answer key business questions provided by
+- the client.<br>
+- To understand the relationship between the data, a data model (ER Diagram) was created using
 Power BI, which helped in defining proper table relationships and ensuring accurate analysis.<br>
 All client questions were solved using SQL queries, applying basic and intermediate concepts such
 as joins, group by, aggregate functions, and limit.<br>
@@ -32,7 +32,7 @@ Calculate the percentage contribution of each pizza type to total revenue.<br>
 Analyze the cumulative revenue generated over time.<br>
 Determine the top 3 most ordered pizza types based on revenue for each pizza category.<br>
 
-The attached PDF contains the solutions to the above questions using SQL.
+## The attached PDF contains the solutions to the above questions using SQL.
 
 # BUSINESS INSIGHTS
 
